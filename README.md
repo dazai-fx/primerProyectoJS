@@ -1,3 +1,3 @@
 # PrimerProyectoJS
 ## José Antonio 
-## joseanlopezavila@gmail.coms
+## joseanlopezavila@gmail.com
